@@ -1,0 +1,2218 @@
+[
+  {
+    "sport": "NFL",
+    "team": "49ers",
+    "primary": {
+      "background": "#AA0000",
+      "foreground": "#FCECD5"
+    },
+    "palette": [
+      {
+        "background": "#AA0000",
+        "foreground": "#FCECD5"
+      },
+      {
+        "background": "#000000",
+        "foreground": "#AA0000"
+      },
+      {
+        "background": "#000000",
+        "foreground": "#AF925D"
+      },
+      {
+        "background": "#B3995D",
+        "foreground": "#000000"
+      },
+      {
+        "background": "#000000",
+        "foreground": "#FCECD5"
+      },
+      {
+        "background": "#FCECD5",
+        "foreground": "#AA0000"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#AA0000"
+      },
+      {
+        "background": "#930000",
+        "foreground": "#E9CB94"
+      },
+      {
+        "background": "#E9CB94",
+        "foreground": "#930000"
+      }
+    ]
+  },
+  {
+    "sport": "NFL",
+    "team": "Bears",
+    "primary": {
+      "background": "#10152C",
+      "foreground": "#E74424"
+    },
+    "palette": [
+      {
+        "background": "#10152C",
+        "foreground": "#E74424"
+      },
+      {
+        "background": "#E74420",
+        "foreground": "#10152C"
+      },
+      {
+        "background": "#0B162A",
+        "foreground": "#F04400"
+      },
+      {
+        "background": "#F04400",
+        "foreground": "#0B162A"
+      },
+      {
+        "background": "#E54100",
+        "foreground": "#FFFFFF"
+      }
+    ]
+  },
+  {
+    "sport": "NFL",
+    "team": "Bengals",
+    "primary": {
+      "background": "#000000",
+      "foreground": "#FB4F14"
+    },
+    "palette": [
+      {
+        "background": "#000000",
+        "foreground": "#FB4F14"
+      },
+      {
+        "background": "#FB4F14",
+        "foreground": "#000000"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#FB4F14"
+      },
+      {
+        "background": "#000000",
+        "foreground": "#FF5C22"
+      },
+      {
+        "background": "#FF5C22",
+        "foreground": "#000000"
+      }
+    ]
+  },
+  {
+    "sport": "NFL",
+    "team": "Bills",
+    "primary": {
+      "background": "#00338D",
+      "foreground": "#C60C30"
+    },
+    "palette": [
+      {
+        "background": "#00338D",
+        "foreground": "#C60C30"
+      },
+      {
+        "background": "#C60C30",
+        "foreground": "#00338D"
+      },
+      {
+        "background": "#00338D",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#C60C30",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#00338D"
+      },
+      {
+        "background": "#033095",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#E8053D",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#032982",
+        "foreground": "#F70542"
+      },
+      {
+        "background": "#032982",
+        "foreground": "#E8053D"
+      }
+    ]
+  },
+  {
+    "sport": "NFL",
+    "team": "Broncos",
+    "primary": {
+      "background": "#002144",
+      "foreground": "#FA4E13"
+    },
+    "palette": [
+      {
+        "background": "#002144",
+        "foreground": "#FA4E13"
+      },
+      {
+        "background": "#FA4E13",
+        "foreground": "#002144"
+      },
+      {
+        "background": "#002144",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#FA4E13",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#FA4E13"
+      },
+      {
+        "background": "#002144",
+        "foreground": "#FA5E2A"
+      },
+      {
+        "background": "#FA5E2A",
+        "foreground": "#002144"
+      }
+    ]
+  },
+  {
+    "sport": "NFL",
+    "team": "Browns",
+    "primary": {
+      "background": "#301C00",
+      "foreground": "#FF3C00"
+    },
+    "palette": [
+      {
+        "background": "#301C00",
+        "foreground": "#FF3C00"
+      },
+      {
+        "background": "#FF3C00",
+        "foreground": "#301C00"
+      },
+      {
+        "background": "#FF3C00",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#FF3C00"
+      },
+      {
+        "background": "#301C00",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#FF470F",
+        "foreground": "#291A00"
+      },
+      {
+        "background": "#291A00",
+        "foreground": "#FF470F"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#291A00"
+      },
+      {
+        "background": "#FF470F",
+        "foreground": "#FFFFFF"
+      }
+    ]
+  },
+  {
+    "sport": "NFL",
+    "team": "Buccaneers",
+    "primary": {
+      "background": "#F99839",
+      "foreground": "#A71930"
+    },
+    "palette": [
+      {
+        "background": "#F99839",
+        "foreground": "#A71930"
+      },
+      {
+        "background": "#961C29",
+        "foreground": "#F99839"
+      },
+      {
+        "background": "#F99839",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#961C29",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#961C29"
+      },
+      {
+        "background": "#EE0C0C",
+        "foreground": "#000000"
+      },
+      {
+        "background": "#000000",
+        "foreground": "#EE0C0C"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#D50A0A"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#EE0C0C"
+      }
+    ]
+  },
+  {
+    "sport": "NFL",
+    "team": "Cardinals",
+    "primary": {
+      "background": "#95223E",
+      "foreground": "#FFB612"
+    },
+    "palette": [
+      {
+        "background": "#95223E",
+        "foreground": "#FFB612"
+      },
+      {
+        "background": "#95223E",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#95223E"
+      },
+      {
+        "background": "#8E223D",
+        "foreground": "#FFBE26"
+      },
+      {
+        "background": "#FFBE26",
+        "foreground": "#8E223D"
+      },
+      {
+        "background": "#8E223D",
+        "foreground": "#E9E7DF"
+      },
+      {
+        "background": "#E9E7DF",
+        "foreground": "#8E223D"
+      },
+      {
+        "background": "#BD0C14",
+        "foreground": "#011542"
+      },
+      {
+        "background": "#011542",
+        "foreground": "#BD0C14"
+      },
+      {
+        "background": "#BD0C14",
+        "foreground": "#FFFFFF"
+      }
+    ]
+  },
+  {
+    "sport": "NFL",
+    "team": "Chargers",
+    "primary": {
+      "background": "#007FC8",
+      "foreground": "#FEC400"
+    },
+    "palette": [
+      {
+        "background": "#007FC8",
+        "foreground": "#FEC400"
+      },
+      {
+        "background": "#FEC400",
+        "foreground": "#007FC8"
+      },
+      {
+        "background": "#007FC8",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#007FC8"
+      },
+      {
+        "background": "#002655",
+        "foreground": "#FFCA1C"
+      },
+      {
+        "background": "#007CC3",
+        "foreground": "#FFCA1C"
+      },
+      {
+        "background": "#007CC3",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#007CC3"
+      }
+    ]
+  },
+  {
+    "sport": "NFL",
+    "team": "Chiefs",
+    "primary": {
+      "background": "#CA2430",
+      "foreground": "#FFB612"
+    },
+    "palette": [
+      {
+        "background": "#CA2430",
+        "foreground": "#FFB612"
+      },
+      {
+        "background": "#FFB612",
+        "foreground": "#CA2430"
+      },
+      {
+        "background": "#000000",
+        "foreground": "#FFB612"
+      },
+      {
+        "background": "#000000",
+        "foreground": "#CA2430"
+      },
+      {
+        "background": "#E31836",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#000000",
+        "foreground": "#E31836"
+      },
+      {
+        "background": "#000000",
+        "foreground": "#FFC20E"
+      },
+      {
+        "background": "#1B1B1B",
+        "foreground": "#E31836"
+      },
+      {
+        "background": "#1B1B1B",
+        "foreground": "#FFC20E"
+      }
+    ]
+  },
+  {
+    "sport": "NFL",
+    "team": "Colts",
+    "primary": {
+      "background": "#02326A",
+      "foreground": "#A4ACAE"
+    },
+    "palette": [
+      {
+        "background": "#02326A",
+        "foreground": "#A4ACAE"
+      },
+      {
+        "background": "#A4ACAE",
+        "foreground": "#002C5F"
+      },
+      {
+        "background": "#02326A",
+        "foreground": "#F6F6F6"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#002C5F"
+      },
+      {
+        "background": "#023064",
+        "foreground": "#BBC0C2"
+      },
+      {
+        "background": "#BBC0C2",
+        "foreground": "#023064"
+      },
+      {
+        "background": "#023064",
+        "foreground": "#CCD1D1"
+      },
+      {
+        "background": "#CCD1D1",
+        "foreground": "#023064"
+      },
+      {
+        "background": "#023064",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#023064"
+      }
+    ]
+  },
+  {
+    "sport": "NFL",
+    "team": "Commanders",
+    "primary": {
+      "background": "#591414",
+      "foreground": "#FFB611"
+    },
+    "palette": [
+      {
+        "background": "#591414",
+        "foreground": "#FFB611"
+      },
+      {
+        "background": "#FFB611",
+        "foreground": "#591414"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#591414"
+      },
+      {
+        "background": "#591414",
+        "foreground": "#FAFAFA"
+      }
+    ]
+  },
+  {
+    "sport": "NFL",
+    "team": "Cowboys",
+    "primary": {
+      "background": "#002244",
+      "foreground": "#BACAD3"
+    },
+    "palette": [
+      {
+        "background": "#002244",
+        "foreground": "#BACAD3"
+      },
+      {
+        "background": "#00338E",
+        "foreground": "#BACAD3"
+      },
+      {
+        "background": "#BACAD3",
+        "foreground": "#002244"
+      },
+      {
+        "background": "#BACAD3",
+        "foreground": "#00338E"
+      },
+      {
+        "background": "#00338E",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#00338E"
+      },
+      {
+        "background": "#002A5B",
+        "foreground": "#BACAD3"
+      },
+      {
+        "background": "#BACAD3",
+        "foreground": "#002A5B"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#002A5B"
+      }
+    ]
+  },
+  {
+    "sport": "NFL",
+    "team": "Dolphins",
+    "primary": {
+      "background": "#008E97",
+      "foreground": "#005677"
+    },
+    "palette": [
+      {
+        "background": "#008E97",
+        "foreground": "#005677"
+      },
+      {
+        "background": "#005677",
+        "foreground": "#008E97"
+      },
+      {
+        "background": "#008E97",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#005677",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#008E97"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#005778"
+      },
+      {
+        "background": "#004966",
+        "foreground": "#00C8D7"
+      },
+      {
+        "background": "#00C8D7",
+        "foreground": "#004966"
+      },
+      {
+        "background": "#F44B02",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#0C99A2",
+        "foreground": "#FFFFFF"
+      }
+    ]
+  },
+  {
+    "sport": "NFL",
+    "team": "Falcons",
+    "primary": {
+      "background": "#A5182F",
+      "foreground": "#000000"
+    },
+    "palette": [
+      {
+        "background": "#A5182F",
+        "foreground": "#000000"
+      },
+      {
+        "background": "#000000",
+        "foreground": "#A5182F"
+      },
+      {
+        "background": "#A5182F",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#A61830"
+      },
+      {
+        "background": "#BC1E23",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#000000",
+        "foreground": "#E12C32"
+      },
+      {
+        "background": "#1A1A1A",
+        "foreground": "#BC1E23"
+      }
+    ]
+  },
+  {
+    "sport": "NFL",
+    "team": "Giants",
+    "primary": {
+      "background": "#0B2265",
+      "foreground": "#A71930"
+    },
+    "palette": [
+      {
+        "background": "#0B2265",
+        "foreground": "#A71930"
+      },
+      {
+        "background": "#A71930",
+        "foreground": "#0B2265"
+      },
+      {
+        "background": "#A71930",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#0B2265",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#0B2265"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#A71930"
+      },
+      {
+        "background": "#333333",
+        "foreground": "#FF4614"
+      },
+      {
+        "background": "#FF4614",
+        "foreground": "#333333"
+      },
+      {
+        "background": "#FD5A1E",
+        "foreground": "#2A2A2A"
+      },
+      {
+        "background": "#000000",
+        "foreground": "#FF4614"
+      }
+    ]
+  },
+  {
+    "sport": "NFL",
+    "team": "Jaguars",
+    "primary": {
+      "background": "#006778",
+      "foreground": "#FFFFFF"
+    },
+    "palette": [
+      {
+        "background": "#006778",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#006778",
+        "foreground": "#101820"
+      },
+      {
+        "background": "#101820",
+        "foreground": "#006778"
+      },
+      {
+        "background": "#101820",
+        "foreground": "#D7A22A"
+      },
+      {
+        "background": "#D7A22A",
+        "foreground": "#101820"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#006778"
+      }
+    ]
+  },
+  {
+    "sport": "NFL",
+    "team": "Jets",
+    "primary": {
+      "background": "#115740",
+      "foreground": "#FFFFFF"
+    },
+    "palette": [
+      {
+        "background": "#115740",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#105741"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#115740"
+      }
+    ]
+  },
+  {
+    "sport": "NFL",
+    "team": "Lions",
+    "primary": {
+      "background": "#0075B4",
+      "foreground": "#FFFFFF"
+    },
+    "palette": [
+      {
+        "background": "#0075B4",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#0075B4"
+      },
+      {
+        "background": "#006FAB",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#006FAB"
+      }
+    ]
+  },
+  {
+    "sport": "NFL",
+    "team": "Packers",
+    "primary": {
+      "background": "#23423C",
+      "foreground": "#FCBE15"
+    },
+    "palette": [
+      {
+        "background": "#23423C",
+        "foreground": "#FCBE15"
+      },
+      {
+        "background": "#FCBE15",
+        "foreground": "#23423C"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#23423C"
+      }
+    ]
+  },
+  {
+    "sport": "NFL",
+    "team": "Panthers",
+    "primary": {
+      "background": "#0085CA",
+      "foreground": "#101820"
+    },
+    "palette": [
+      {
+        "background": "#0085CA",
+        "foreground": "#101820"
+      },
+      {
+        "background": "#101820",
+        "foreground": "#0085CA"
+      },
+      {
+        "background": "#0085CA",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#006778",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#006778",
+        "foreground": "#101820"
+      },
+      {
+        "background": "#101820",
+        "foreground": "#006778"
+      },
+      {
+        "background": "#101820",
+        "foreground": "#D7A22A"
+      },
+      {
+        "background": "#D7A22A",
+        "foreground": "#101820"
+      },
+      {
+        "background": "#10152C",
+        "foreground": "#E74424"
+      },
+      {
+        "background": "#E74420",
+        "foreground": "#10152C"
+      },
+      {
+        "background": "#0078B5",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#070D14",
+        "foreground": "#008CD2"
+      },
+      {
+        "background": "#070D14",
+        "foreground": "#0078B5"
+      }
+    ]
+  },
+  {
+    "sport": "NFL",
+    "team": "Patriots",
+    "primary": {
+      "background": "#012244",
+      "foreground": "#BF001C"
+    },
+    "palette": [
+      {
+        "background": "#012244",
+        "foreground": "#BF001C"
+      },
+      {
+        "background": "#BF001C",
+        "foreground": "#012244"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#BF001C"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#012244"
+      },
+      {
+        "background": "#012447",
+        "foreground": "#DD0021"
+      },
+      {
+        "background": "#012447",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#013569",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#BF001C",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#013569"
+      },
+      {
+        "background": "#BF001C",
+        "foreground": "#012447"
+      },
+      {
+        "background": "#DD0021",
+        "foreground": "#FFFFFF"
+      }
+    ]
+  },
+  {
+    "sport": "NFL",
+    "team": "Raiders",
+    "primary": {
+      "background": "#C4C9CC",
+      "foreground": "#000000"
+    },
+    "palette": [
+      {
+        "background": "#C4C9CC",
+        "foreground": "#000000"
+      },
+      {
+        "background": "#000000",
+        "foreground": "#C4C9CC"
+      },
+      {
+        "background": "#000000",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#000000"
+      }
+    ]
+  },
+  {
+    "sport": "NFL",
+    "team": "Rams",
+    "primary": {
+      "background": "#FDCF00",
+      "foreground": "#003594"
+    },
+    "palette": [
+      {
+        "background": "#FDCF00",
+        "foreground": "#003594"
+      },
+      {
+        "background": "#003594",
+        "foreground": "#FDCF00"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#003594"
+      }
+    ]
+  },
+  {
+    "sport": "NFL",
+    "team": "Ravens",
+    "primary": {
+      "background": "#231672",
+      "foreground": "#9E7C0C"
+    },
+    "palette": [
+      {
+        "background": "#231672",
+        "foreground": "#9E7C0C"
+      },
+      {
+        "background": "#9E7C0C",
+        "foreground": "#231672"
+      },
+      {
+        "background": "#000000",
+        "foreground": "#9E7C0C"
+      },
+      {
+        "background": "#9E7C0C",
+        "foreground": "#000000"
+      },
+      {
+        "background": "#231672",
+        "foreground": "#FDFDFC"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#241773"
+      },
+      {
+        "background": "#231672",
+        "foreground": "#BC930E"
+      },
+      {
+        "background": "#BC930E",
+        "foreground": "#231672"
+      },
+      {
+        "background": "#000000",
+        "foreground": "#BC930E"
+      }
+    ]
+  },
+  {
+    "sport": "NFL",
+    "team": "Saints",
+    "primary": {
+      "background": "#D1BA8B",
+      "foreground": "#0F1720"
+    },
+    "palette": [
+      {
+        "background": "#D1BA8B",
+        "foreground": "#0F1720"
+      },
+      {
+        "background": "#0F1720",
+        "foreground": "#D1BA8B"
+      }
+    ]
+  },
+  {
+    "sport": "NFL",
+    "team": "Seahawks",
+    "primary": {
+      "background": "#00004F",
+      "foreground": "#69BE28"
+    },
+    "palette": [
+      {
+        "background": "#00004F",
+        "foreground": "#69BE28"
+      },
+      {
+        "background": "#69BD27",
+        "foreground": "#00004F"
+      },
+      {
+        "background": "#00004F",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#69BD27",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#00004F"
+      },
+      {
+        "background": "#69BE28",
+        "foreground": "#00004F"
+      },
+      {
+        "background": "#1E6AD7",
+        "foreground": "#FFFFFF"
+      }
+    ]
+  },
+  {
+    "sport": "NFL",
+    "team": "Steelers",
+    "primary": {
+      "background": "#000000",
+      "foreground": "#F0AE00"
+    },
+    "palette": [
+      {
+        "background": "#000000",
+        "foreground": "#F0AE00"
+      },
+      {
+        "background": "#F0AE00",
+        "foreground": "#000000"
+      },
+      {
+        "background": "#A5ACAF",
+        "foreground": "#000000"
+      }
+    ]
+  },
+  {
+    "sport": "NFL",
+    "team": "Texans",
+    "primary": {
+      "background": "#EB0028",
+      "foreground": "#021118"
+    },
+    "palette": [
+      {
+        "background": "#EB0028",
+        "foreground": "#021118"
+      },
+      {
+        "background": "#021118",
+        "foreground": "#EB0028"
+      },
+      {
+        "background": "#EB0028",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#021118",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#EB0028"
+      },
+      {
+        "background": "#F20028",
+        "foreground": "#000000"
+      },
+      {
+        "background": "#000000",
+        "foreground": "#EB0028"
+      },
+      {
+        "background": "#000000",
+        "foreground": "#F20028"
+      }
+    ]
+  },
+  {
+    "sport": "NFL",
+    "team": "Titans",
+    "primary": {
+      "background": "#4B92DB",
+      "foreground": "#00295B"
+    },
+    "palette": [
+      {
+        "background": "#4B92DB",
+        "foreground": "#00295B"
+      },
+      {
+        "background": "#00295B",
+        "foreground": "#4B92DB"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#4B92DB"
+      },
+      {
+        "background": "#579AD1",
+        "foreground": "#012850"
+      },
+      {
+        "background": "#012850",
+        "foreground": "#579AD1"
+      },
+      {
+        "background": "#579AD1",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#579AD1"
+      }
+    ]
+  },
+  {
+    "sport": "NFL",
+    "team": "Vikings",
+    "primary": {
+      "background": "#4E2582",
+      "foreground": "#FFC62F"
+    },
+    "palette": [
+      {
+        "background": "#4E2582",
+        "foreground": "#FFC62F"
+      },
+      {
+        "background": "#FFC62F",
+        "foreground": "#4F2683"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#4F2683"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#4E2582"
+      },
+      {
+        "background": "#FFC62F",
+        "foreground": "#4E2582"
+      }
+    ]
+  },
+  {
+    "sport": "NBA",
+    "team": "76ers",
+    "primary": {
+      "background": "#003DA6",
+      "foreground": "#FFFFFF"
+    },
+    "palette": [
+      {
+        "background": "#003DA6",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#003DA6"
+      },
+      {
+        "background": "#DD0032",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#DD0032"
+      },
+      {
+        "background": "#BC1B21",
+        "foreground": "#000000"
+      },
+      {
+        "background": "#BC1B21",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#000000",
+        "foreground": "#BC1B21"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#CE1141"
+      },
+      {
+        "background": "#000000",
+        "foreground": "#CE1141"
+      },
+      {
+        "background": "#000000",
+        "foreground": "#BB955B"
+      },
+      {
+        "background": "#BB955B",
+        "foreground": "#000000"
+      },
+      {
+        "background": "#0C2340",
+        "foreground": "#DE1E36"
+      },
+      {
+        "background": "#1D428A",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#1D428A"
+      }
+    ]
+  },
+  {
+    "sport": "NBA",
+    "team": "Clippers",
+    "primary": {
+      "background": "#C8102E",
+      "foreground": "#FFFFFF"
+    },
+    "palette": [
+      {
+        "background": "#C8102E",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#C8102E"
+      },
+      {
+        "background": "#12173F",
+        "foreground": "#C8102E"
+      },
+      {
+        "background": "#FEFEFE",
+        "foreground": "#12173F"
+      }
+    ]
+  },
+  {
+    "sport": "NBA",
+    "team": "Grizzlies",
+    "primary": {
+      "background": "#0C2440",
+      "foreground": "#FFFFFF"
+    },
+    "palette": [
+      {
+        "background": "#0C2440",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#12173F",
+        "foreground": "#788AB0"
+      },
+      {
+        "background": "#12173F",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#788AB1",
+        "foreground": "#12173F"
+      }
+    ]
+  },
+  {
+    "sport": "NBA",
+    "team": "Heat",
+    "primary": {
+      "background": "#90002B",
+      "foreground": "#F9A01B"
+    },
+    "palette": [
+      {
+        "background": "#90002B",
+        "foreground": "#F9A01B"
+      },
+      {
+        "background": "#90002B",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#98002E",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#98002E"
+      }
+    ]
+  },
+  {
+    "sport": "NBA",
+    "team": "Kings",
+    "primary": {
+      "background": "#592D81",
+      "foreground": "#FFFFFF"
+    },
+    "palette": [
+      {
+        "background": "#592D81",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#63717A",
+        "foreground": "#FFFFFF"
+      }
+    ]
+  },
+  {
+    "sport": "NBA",
+    "team": "Lakers",
+    "primary": {
+      "background": "#542C81",
+      "foreground": "#FAB624"
+    },
+    "palette": [
+      {
+        "background": "#542C81",
+        "foreground": "#FAB624"
+      },
+      {
+        "background": "#FAB624",
+        "foreground": "#542C81"
+      },
+      {
+        "background": "#C8102E",
+        "foreground": "#12173F"
+      }
+    ]
+  },
+  {
+    "sport": "NBA",
+    "team": "Magic",
+    "primary": {
+      "background": "#0050B5",
+      "foreground": "#FFFFFF"
+    },
+    "palette": [
+      {
+        "background": "#0050B5",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#0050B5"
+      },
+      {
+        "background": "#002B5C",
+        "foreground": "#E41837"
+      },
+      {
+        "background": "#002B5C",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#E41837",
+        "foreground": "#FFFFFF"
+      }
+    ]
+  },
+  {
+    "sport": "NBA",
+    "team": "Mavericks",
+    "primary": {
+      "background": "#0064B1",
+      "foreground": "#FFFFFF"
+    },
+    "palette": [
+      {
+        "background": "#0064B1",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#0064B1"
+      },
+      {
+        "background": "#0064B1",
+        "foreground": "#EEF2F5"
+      },
+      {
+        "background": "#EEF2F5",
+        "foreground": "#0064B1"
+      }
+    ]
+  },
+  {
+    "sport": "NBA",
+    "team": "Nuggets",
+    "primary": {
+      "background": "#0E2240",
+      "foreground": "#FEC525"
+    },
+    "palette": [
+      {
+        "background": "#0E2240",
+        "foreground": "#FEC525"
+      },
+      {
+        "background": "#FEC525",
+        "foreground": "#0E2240"
+      },
+      {
+        "background": "#0D2240",
+        "foreground": "#FEC525"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#8B2332"
+      }
+    ]
+  },
+  {
+    "sport": "NBA",
+    "team": "Pelicans",
+    "primary": {
+      "background": "#0F1841",
+      "foreground": "#B4975A"
+    },
+    "palette": [
+      {
+        "background": "#0F1841",
+        "foreground": "#B4975A"
+      },
+      {
+        "background": "#0F1841",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#0A2240",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#0A2240",
+        "foreground": "#B4975A"
+      }
+    ]
+  },
+  {
+    "sport": "NBA",
+    "team": "Rockets",
+    "primary": {
+      "background": "#340070",
+      "foreground": "#FFFFFF"
+    },
+    "palette": [
+      {
+        "background": "#340070",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#340070"
+      },
+      {
+        "background": "#FAF8F3",
+        "foreground": "#E50022"
+      },
+      {
+        "background": "#E50022",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#00385D",
+        "foreground": "#E50022"
+      },
+      {
+        "background": "#E50022",
+        "foreground": "#00385D"
+      },
+      {
+        "background": "#C6011F",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#C6011F",
+        "foreground": "#000000"
+      },
+      {
+        "background": "#C2C8CA",
+        "foreground": "#000000"
+      },
+      {
+        "background": "#000000",
+        "foreground": "#C2C8CA"
+      },
+      {
+        "background": "#CC3433",
+        "foreground": "#0E3386"
+      },
+      {
+        "background": "#0E3386",
+        "foreground": "#CC3433"
+      },
+      {
+        "background": "#0E3386",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#CE1141",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#CE1141",
+        "foreground": "#000000"
+      },
+      {
+        "background": "#070707",
+        "foreground": "#CE1141"
+      }
+    ]
+  },
+  {
+    "sport": "NBA",
+    "team": "Spurs",
+    "primary": {
+      "background": "#C4CED4",
+      "foreground": "#000000"
+    },
+    "palette": [
+      {
+        "background": "#C4CED4",
+        "foreground": "#000000"
+      },
+      {
+        "background": "#000000",
+        "foreground": "#C4CED4"
+      },
+      {
+        "background": "#000000",
+        "foreground": "#FFFFFF"
+      }
+    ]
+  },
+  {
+    "sport": "NBA",
+    "team": "Suns",
+    "primary": {
+      "background": "#3B266E",
+      "foreground": "#FA4B0A"
+    },
+    "palette": [
+      {
+        "background": "#3B266E",
+        "foreground": "#FA4B0A"
+      },
+      {
+        "background": "#3B266E",
+        "foreground": "#FCFCFC"
+      },
+      {
+        "background": "#FA4B0A",
+        "foreground": "#3B266E"
+      },
+      {
+        "background": "#FA4B0A",
+        "foreground": "#FFFFFF"
+      }
+    ]
+  },
+  {
+    "sport": "NBA",
+    "team": "Timberwolves",
+    "primary": {
+      "background": "#0D2240",
+      "foreground": "#77BC1F"
+    },
+    "palette": [
+      {
+        "background": "#0D2240",
+        "foreground": "#77BC1F"
+      },
+      {
+        "background": "#000000",
+        "foreground": "#79BC43"
+      },
+      {
+        "background": "#0D2240",
+        "foreground": "#276092"
+      },
+      {
+        "background": "#002D62",
+        "foreground": "#F05133"
+      },
+      {
+        "background": "#00234A",
+        "foreground": "#F15637"
+      },
+      {
+        "background": "#CF0A2C",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#4E008E",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#4E008E"
+      },
+      {
+        "background": "#1B4289",
+        "foreground": "#FFC52A"
+      },
+      {
+        "background": "#FFC52A",
+        "foreground": "#1B4289"
+      },
+      {
+        "background": "#0D2240",
+        "foreground": "#E5E5E5"
+      },
+      {
+        "background": "#5285B2",
+        "foreground": "#0D2240"
+      }
+    ]
+  },
+  {
+    "sport": "WNBA",
+    "team": "Atlanta Dream",
+    "primary": {
+      "background": "#363B37",
+      "foreground": "#E3173E"
+    },
+    "palette": [
+      {
+        "background": "#363B37",
+        "foreground": "#E3173E"
+      },
+      {
+        "background": "#363B37",
+        "foreground": "#4891CE"
+      }
+    ]
+  },
+  {
+    "sport": "WNBA",
+    "team": "Chicago Sky",
+    "primary": {
+      "background": "#000000",
+      "foreground": "#FFD520"
+    },
+    "palette": [
+      {
+        "background": "#000000",
+        "foreground": "#FFD520"
+      },
+      {
+        "background": "#000000",
+        "foreground": "#4D90CD"
+      }
+    ]
+  },
+  {
+    "sport": "WNBA",
+    "team": "Connecticut Sun",
+    "primary": {
+      "background": "#F05023",
+      "foreground": "#FFFFFF"
+    },
+    "palette": [
+      {
+        "background": "#F05023",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#F05023"
+      },
+      {
+        "background": "#0A2240",
+        "foreground": "#F05023"
+      }
+    ]
+  },
+  {
+    "sport": "WNBA",
+    "team": "Dallas Wings",
+    "primary": {
+      "background": "#002B5C",
+      "foreground": "#C4D600"
+    },
+    "palette": [
+      {
+        "background": "#002B5C",
+        "foreground": "#C4D600"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#C4D600"
+      }
+    ]
+  },
+  {
+    "sport": "WNBA",
+    "team": "Golden State Valkyries",
+    "primary": {
+      "background": "#000000",
+      "foreground": "#B897D4"
+    },
+    "palette": [
+      {
+        "background": "#000000",
+        "foreground": "#B897D4"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#B897D4"
+      }
+    ]
+  },
+  {
+    "sport": "WNBA",
+    "team": "Indiana Fever",
+    "primary": {
+      "background": "#E2293A",
+      "foreground": "#FFFFFF"
+    },
+    "palette": [
+      {
+        "background": "#E2293A",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#0C2440",
+        "foreground": "#E2293A"
+      }
+    ]
+  },
+  {
+    "sport": "WNBA",
+    "team": "LA Sparks",
+    "primary": {
+      "background": "#552583",
+      "foreground": "#FDB927"
+    },
+    "palette": [
+      {
+        "background": "#552583",
+        "foreground": "#FDB927"
+      },
+      {
+        "background": "#FDB927",
+        "foreground": "#552583"
+      }
+    ]
+  },
+  {
+    "sport": "WNBA",
+    "team": "Las Vegas Aces",
+    "primary": {
+      "background": "#000000",
+      "foreground": "#A7A8AA"
+    },
+    "palette": [
+      {
+        "background": "#000000",
+        "foreground": "#A7A8AA"
+      },
+      {
+        "background": "#A7A8AA",
+        "foreground": "#000000"
+      },
+      {
+        "background": "#BE0030",
+        "foreground": "#FFFFFF"
+      }
+    ]
+  },
+  {
+    "sport": "WNBA",
+    "team": "Minnesota Lynx",
+    "primary": {
+      "background": "#0C243F",
+      "foreground": "#78BC42"
+    },
+    "palette": [
+      {
+        "background": "#0C243F",
+        "foreground": "#78BC42"
+      },
+      {
+        "background": "#78BC42",
+        "foreground": "#0C243F"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#0C243F"
+      }
+    ]
+  },
+  {
+    "sport": "WNBA",
+    "team": "NY Liberty",
+    "primary": {
+      "background": "#000000",
+      "foreground": "#87D5B5"
+    },
+    "palette": [
+      {
+        "background": "#000000",
+        "foreground": "#87D5B5"
+      },
+      {
+        "background": "#87D5B5",
+        "foreground": "#000000"
+      }
+    ]
+  },
+  {
+    "sport": "WNBA",
+    "team": "Phoenix Mercury",
+    "primary": {
+      "background": "#3C286E",
+      "foreground": "#FB4A0B"
+    },
+    "palette": [
+      {
+        "background": "#3C286E",
+        "foreground": "#FB4A0B"
+      },
+      {
+        "background": "#FB4A0B",
+        "foreground": "#3C286E"
+      },
+      {
+        "background": "#3C286E",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#2C5235",
+        "foreground": "#FEE11A"
+      },
+      {
+        "background": "#FEE11A",
+        "foreground": "#2C5235"
+      }
+    ]
+  },
+  {
+    "sport": "WNBA",
+    "team": "Seattle Storm",
+    "primary": {
+      "background": "#2C5235",
+      "foreground": "#FEE11A"
+    },
+    "palette": [
+      {
+        "background": "#2C5235",
+        "foreground": "#FEE11A"
+      },
+      {
+        "background": "#FEE11A",
+        "foreground": "#2C5235"
+      }
+    ]
+  },
+  {
+    "sport": "WNBA",
+    "team": "Washington Mystics",
+    "primary": {
+      "background": "#4A4076",
+      "foreground": "#FFFFFF"
+    },
+    "palette": [
+      {
+        "background": "#4A4076",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#B13779",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#E03A3E",
+        "foreground": "#002B5C"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#E03A3E"
+      },
+      {
+        "background": "#E03A3E",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#4A4076"
+      }
+    ]
+  },
+  {
+    "sport": "MLB",
+    "team": "Angels",
+    "primary": {
+      "background": "#002E65",
+      "foreground": "#DA001C"
+    },
+    "palette": [
+      {
+        "background": "#002E65",
+        "foreground": "#DA001C"
+      },
+      {
+        "background": "#DA001C",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#1538A3",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#BD9B60",
+        "foreground": "#004687"
+      },
+      {
+        "background": "#004687",
+        "foreground": "#BD9B60"
+      }
+    ]
+  },
+  {
+    "sport": "MLB",
+    "team": "Astros",
+    "primary": {
+      "background": "#EC6D20",
+      "foreground": "#012B5E"
+    },
+    "palette": [
+      {
+        "background": "#EC6D20",
+        "foreground": "#012B5E"
+      },
+      {
+        "background": "#012B5E",
+        "foreground": "#EC6D20"
+      },
+      {
+        "background": "#012B5E",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#0C2C56",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#FD4514",
+        "foreground": "#0A2340"
+      },
+      {
+        "background": "#0A2340",
+        "foreground": "#FD4514"
+      },
+      {
+        "background": "#EB6E1F",
+        "foreground": "#002D62"
+      },
+      {
+        "background": "#002D62",
+        "foreground": "#EB6E1F"
+      },
+      {
+        "background": "#000000",
+        "foreground": "#FFB612"
+      },
+      {
+        "background": "#000000",
+        "foreground": "#CA2430"
+      }
+    ]
+  },
+  {
+    "sport": "MLB",
+    "team": "Diamondbacks",
+    "primary": {
+      "background": "#A71930",
+      "foreground": "#4CDEE0"
+    },
+    "palette": [
+      {
+        "background": "#A71930",
+        "foreground": "#4CDEE0"
+      },
+      {
+        "background": "#A71930",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#000000",
+        "foreground": "#E32343"
+      },
+      {
+        "background": "#A71930",
+        "foreground": "#30CED8"
+      },
+      {
+        "background": "#E3D4AD",
+        "foreground": "#A71930"
+      },
+      {
+        "background": "#000000",
+        "foreground": "#30CED8"
+      }
+    ]
+  },
+  {
+    "sport": "Unrivaled",
+    "team": "Hive",
+    "primary": {
+      "background": "#4B5256",
+      "foreground": "#FFC63A"
+    },
+    "palette": [
+      {
+        "background": "#4B5256",
+        "foreground": "#FFC63A"
+      },
+      {
+        "background": "#FFC63A",
+        "foreground": "#4B5256"
+      }
+    ]
+  },
+  {
+    "sport": "Unrivaled",
+    "team": "Laces",
+    "primary": {
+      "background": "#519280",
+      "foreground": "#FFFFFF"
+    },
+    "palette": [
+      {
+        "background": "#519280",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#4A6760",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#4A6760"
+      }
+    ]
+  },
+  {
+    "sport": "Unrivaled",
+    "team": "Lunar Owls",
+    "primary": {
+      "background": "#40357D",
+      "foreground": "#F4E087"
+    },
+    "palette": [
+      {
+        "background": "#40357D",
+        "foreground": "#F4E087"
+      },
+      {
+        "background": "#F4E087",
+        "foreground": "#40357D"
+      }
+    ]
+  },
+  {
+    "sport": "Unrivaled",
+    "team": "Mist",
+    "primary": {
+      "background": "#063860",
+      "foreground": "#A3D3E7"
+    },
+    "palette": [
+      {
+        "background": "#063860",
+        "foreground": "#A3D3E7"
+      },
+      {
+        "background": "#A3D3E7",
+        "foreground": "#063860"
+      }
+    ]
+  },
+  {
+    "sport": "Unrivaled",
+    "team": "Phantom",
+    "primary": {
+      "background": "#000000",
+      "foreground": "#44944A"
+    },
+    "palette": [
+      {
+        "background": "#000000",
+        "foreground": "#44944A"
+      },
+      {
+        "background": "#000000",
+        "foreground": "#B3B3B3"
+      },
+      {
+        "background": "#B3B3B3",
+        "foreground": "#000000"
+      }
+    ]
+  },
+  {
+    "sport": "Unrivaled",
+    "team": "Rose",
+    "primary": {
+      "background": "#194A46",
+      "foreground": "#E0B6A3"
+    },
+    "palette": [
+      {
+        "background": "#194A46",
+        "foreground": "#E0B6A3"
+      },
+      {
+        "background": "#E0B6A3",
+        "foreground": "#194A46"
+      }
+    ]
+  },
+  {
+    "sport": "Unrivaled",
+    "team": "Vinyl",
+    "primary": {
+      "background": "#820234",
+      "foreground": "#2EB9DF"
+    },
+    "palette": [
+      {
+        "background": "#820234",
+        "foreground": "#2EB9DF"
+      },
+      {
+        "background": "#1FA0C4",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#820234",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#0B2265",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#A71930",
+        "foreground": "#FFFFFF"
+      },
+      {
+        "background": "#C4C9CC",
+        "foreground": "#000000"
+      },
+      {
+        "background": "#000000",
+        "foreground": "#C4C9CC"
+      },
+      {
+        "background": "#8E223D",
+        "foreground": "#FFBE26"
+      },
+      {
+        "background": "#FFBE26",
+        "foreground": "#8E223D"
+      },
+      {
+        "background": "#FF470F",
+        "foreground": "#291A00"
+      },
+      {
+        "background": "#291A00",
+        "foreground": "#FF470F"
+      },
+      {
+        "background": "#FFFFFF",
+        "foreground": "#820234"
+      }
+    ]
+  }
+]
